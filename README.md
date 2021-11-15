@@ -37,3 +37,9 @@ git remote add orgin https://github.com/trankimtu/angular-favorite.git
 git push -u origin master
 ```
 
+## File related
+```
+style.css
+app.component.html: template
+app.component.ts
+```
