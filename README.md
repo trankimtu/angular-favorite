@@ -6,6 +6,11 @@ Bootstrap Star / Filled Star when clicked
 ng new angular-favorite
 ```
 
+## Create component favorite
+```
+ng g c favorite
+```
+
 ## Install bootstrap
 ```
 npm install bootstrap --save 
