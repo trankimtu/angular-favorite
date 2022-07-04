@@ -1,0 +1,14 @@
+<!-- favorite.component.html -->
+
+<i class="bi bi-star"></i>
+<i class="bi bi-star-fill"></i>
+<p>Click on the star bellow</p>
+<i
+    class="bi"
+    [class.bi-star]="!isFavorite"
+    [class.bi-star-fill]="isFavorite"
+    (click)="onClick()"
+
+>
+</i>
+
